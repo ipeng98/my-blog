@@ -24,7 +24,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <main id="main-content" data-layout="index" class="app-layout">
     <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Hi, I'm Yipeng 👋
+        Hi, I'm Yipeng Zhang 👋
       </h1>
       <a
         target="_blank"
@@ -42,13 +42,21 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       </a>
 
       <p>
-        Welcome to my personal blog! I'm Yipeng, based in Shanghai. I write
-        about technology, projects I'm working on, and anything else that
-        catches my interest.
+        Senior Software Engineer with 11+ years of R&D experience building
+        automation, CI/CD pipelines, and full-stack tooling for large-scale
+        distributed systems — currently at <strong>VMware</strong> in Sydney.
       </p>
       <p class="mt-2">
-        Feel free to browse the posts below or connect with me through the
-        social links.
+        I specialise in Python, Django, and test infrastructure. On this site I
+        write about software engineering, systems thinking, and side projects.
+        If you're here from a job application, the{" "}
+        <a
+          href="/about"
+          class="underline decoration-dashed underline-offset-4 hover:text-accent"
+        >
+          About page
+        </a>{" "}
+        has my full background and experience.
       </p>
       {
         // only display if at least one social link is enabled

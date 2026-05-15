@@ -3,35 +3,81 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## Hi, I'm Yipeng Zhang
 
-![Astro Paper](public/astropaper-og.jpg)
+I'm a **Senior Software Engineer** with 11+ years of R&D experience, currently at **VMware** in Sydney, Australia. I specialise in building automation frameworks, CI/CD pipelines, and internal tooling for large-scale distributed systems.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+I enjoy turning complex technical problems into clean, repeatable solutions — whether that's a web platform that centralises team workflows, a CI pipeline that gates binary quality, or a diagnostic script that cuts hours of manual analysis down to seconds.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+---
 
-## Features
+## Experience
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+### VMware — Senior Member of Technical Staff
+**2018 – Present · Sydney**
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+- Built and maintained **Stsds Portal**, a full-stack web application (Django + MySQL) giving the ST team a centralised platform for hardware management, test launching, and result recording.
+- Designed the **ST CI/CD system** using Jenkins: a CI job that verifies the automation binary builds successfully on every check-in, and a daily CD job that runs acceptance tests to gate binary quality. Results and configurations are stored in SQLite.
+- Collaborated with cross-functional teams to design scalable architecture for new features across upcoming vSAN releases.
 
-and so much more.
+*Python · Django · MySQL · SQLite · JavaScript · Jenkins · Maven · Perforce · Bugzilla · Jira*
 
-## Show your support
+---
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+### DellEMC — Senior Software Engineer
+**2017 – 2018**
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+- Developed test plans and automation code for the **OneFS** core filesystem.
+- Mentored and onboarded junior engineers.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+*Git · OneFS · Jira*
 
-Kyay zuu! 🙏🏼
+---
+
+### Intel — Software Engineer
+**2015 – 2017**
+
+- Led a 5-person QA team testing and evaluating **KVMGT** (KVM GPU pass-through) software.
+- The project was upstreamed and shipped as a component in the **Linux kernel 4.10**.
+
+*Linux · Python · Shell · Windows*
+
+---
+
+### EMC — Software Engineer
+**2013 – 2015**
+
+- Contributed code across **ESI 3.0 to 3.5** releases.
+
+*C# · PowerShell · TFS · Microsoft SQL Server*
+
+---
+
+## Skills
+
+| Category   | Technologies                                      |
+| ---------- | ------------------------------------------------- |
+| Languages  | Python, Java, C#, JavaScript, Shell               |
+| Frameworks | Django, Unittest                                  |
+| Databases  | MySQL, SQL Server, SQLite                         |
+| DevOps     | Jenkins, CI/CD, Maven                             |
+| Platforms  | Linux, Windows                                    |
+| Workflow   | Agile, Jira, Bugzilla, Perforce, Git              |
+
+---
+
+## Education
+
+**University of Science and Technology of China**
+Master of Software Engineering · 2013
+
+**Qingdao University of Technology**
+Bachelor of Computer Science · 2010
+
+---
+
+## Get in Touch
+
+- **Email**: [zhyipeng88@gmail.com](mailto:zhyipeng88@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yipeng-zhang-edison](https://www.linkedin.com/in/yipeng-zhang-edison)
+- **GitHub**: [github.com/ipeng98](https://github.com/ipeng98)

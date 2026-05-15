@@ -1,8 +1,8 @@
 export const SITE = {
-  website: "https://my-blog-ipeng98.vercel.app/", // replace this with your deployed domain
-  author: "Yipeng",
+  website: "https://yipeng.vercel.app/",
+  author: "Yipeng Zhang",
   profile: "https://github.com/ipeng98",
-  desc: "Yipeng's personal blog — thoughts, projects, and more.",
+  desc: "Senior Software Engineer with 11+ years in automation, CI/CD and full-stack tooling. Currently at VMware in Sydney.",
   title: "Yipeng's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -19,5 +19,5 @@ export const SITE = {
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Shanghai", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  timezone: "Australia/Sydney", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 } as const;

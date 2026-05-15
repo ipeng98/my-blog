@@ -24,8 +24,14 @@ export const SOCIALS: Social[] = [
     icon: IconGitHub,
   },
   {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/yipeng-zhang-edison",
+    linkTitle: `${SITE.title} on LinkedIn`,
+    icon: IconLinkedin,
+  },
+  {
     name: "Mail",
-    href: "mailto:ipeng1988@126.com",
+    href: "mailto:zhyipeng88@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: IconMail,
   },
