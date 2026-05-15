@@ -5,7 +5,7 @@ title: "About"
 
 ## Hi, I'm Yipeng Zhang
 
-I'm a **Senior Software Engineer** with 11+ years of R&D experience, currently at **VMware** in Sydney, Australia. I specialise in building automation frameworks, CI/CD pipelines, and internal tooling for large-scale distributed systems.
+I'm a **Senior Software Engineer** with 13+ years of R&D experience, currently at **VMware By Broadcom** in Shanghai, China. I specialise in building automation frameworks, CI/CD pipelines, and internal tooling for large-scale distributed systems.
 
 I enjoy turning complex technical problems into clean, repeatable solutions — whether that's a web platform that centralises team workflows, a CI pipeline that gates binary quality, or a diagnostic script that cuts hours of manual analysis down to seconds.
 
@@ -14,7 +14,7 @@ I enjoy turning complex technical problems into clean, repeatable solutions — 
 ## Experience
 
 ### VMware — Senior Member of Technical Staff
-**2018 – Present · Sydney**
+**2018 – Present · Shanghai**
 
 - Built and maintained **Stsds Portal**, a full-stack web application (Django + MySQL) giving the ST team a centralised platform for hardware management, test launching, and result recording.
 - Designed the **ST CI/CD system** using Jenkins: a CI job that verifies the automation binary builds successfully on every check-in, and a daily CD job that runs acceptance tests to gate binary quality. Results and configurations are stored in SQLite.
